@@ -62,11 +62,3 @@ The model is trained using a symptom-based dataset containing multiple symptoms 
 ### Model Performance
 
 **Reported Model Accuracy: 97.62%**
-
-
-## Important Disclaimer
-
-This project is developed for educational and academic purposes only. The disease predictions are experimental and are not intended to replace professional medical diagnosis, consultation, or treatment.
-
-Always consult a qualified healthcare professional for medical advice.
-
