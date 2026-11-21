@@ -63,19 +63,6 @@ The model is trained using a symptom-based dataset containing multiple symptoms 
 
 **Reported Model Accuracy: 97.62%**
 
-This is the accuracy obtained during the notebook's test evaluation. It should not be interpreted as guaranteed clinical diagnostic accuracy.
-
-## How to Run the Practical Implementation
-
-1. Download or clone this repository.
-2. Open the `.ipynb` file using Jupyter Notebook or Google Colab.
-3. Upload or place the required dataset files (`Training (1).csv` and `Testing (1).csv`) in the appropriate working directory.
-4. Run the notebook cells sequentially.
-5. Enter the required symptoms and observe the predicted disease.
-
-## Project Objective
-
-The main objective is to demonstrate how machine learning can be applied to healthcare for preliminary disease prediction and to understand the practical integration of AI into biomedical applications.
 
 ## Important Disclaimer
 
